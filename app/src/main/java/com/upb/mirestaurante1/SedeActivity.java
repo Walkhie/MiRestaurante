@@ -44,7 +44,7 @@ public class SedeActivity extends FragmentActivity implements OnMapReadyCallback
         mMap = googleMap;
 
         // Add a marker in Sydney and move the camera
-        LatLng sydney = new LatLng(-34, 151);
+
         LatLng medellin = new LatLng(6.242304, -75.579392);
         LatLng laureles = new LatLng(6.243468,-75.5947674);
         LatLng poblado = new LatLng(6.209337,-75.5702626);

@@ -5,6 +5,12 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="titulo">MI RESTAURANTE</string>
+    <string name="sedes">CONOCE NUESTRAS UBICACIONES</string>
+    <string name="menu">REVISE NUESTRO MENU</string>
+    <string name="reserva">REALICE SU RESERVA</string>
+
+
 
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
@@ -43,4 +49,6 @@
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
     <string name="title_activity_sede">SedeActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_reserva">ReservaActivity</string>
 </resources>
