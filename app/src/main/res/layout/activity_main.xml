@@ -23,12 +23,6 @@
             android:textSize="24sp"
             android:typeface="normal" />
 
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="match_parent"
-            android:layout_height="337dp"
-            app:srcCompat="@drawable/pXolk9SZq8_small" />
-
         <Button
             android:id="@+id/buttonMenu"
             android:layout_width="match_parent"
@@ -50,6 +44,12 @@
             android:baselineAligned="false"
             android:onClick="consultarReserva"
             android:text="@string/reserva" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/logo" />
 
     </LinearLayout>
 
