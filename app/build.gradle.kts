@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.upb.mirestaurante1"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.upb.mirestaurante1"
