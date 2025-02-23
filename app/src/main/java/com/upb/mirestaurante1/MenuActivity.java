@@ -26,6 +26,7 @@ public class MenuActivity extends AppCompatActivity implements AdapterView.OnIte
         ListView lv = findViewById(android.R.id.list);
         //Prepara el contenido
         ListAdapter la = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,Categorias);
+
         //Asigna contenido a la vista
         lv.setAdapter(la);
         lv.setOnItemClickListener(this);

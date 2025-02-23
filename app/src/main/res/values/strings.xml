@@ -20,4 +20,17 @@
     <string name="title_activity_sede">SedeActivity</string>
     <string name="title_activity_menu">MenuActivity</string>
     <string name="title_activity_reserva">ReservaActivity</string>
+
+
+    <!-- Informacion platos Fuertes -->
+
+    <string name="platoFuerte1">Bandeja Paisa</string>
+    <string name="platoFuerte2">Mondongo</string>
+    <string name="platoFuerte3">Mole Poblano</string>
+
+    <string name="descripcionFuerte1">Nuestro plato estrella, un festín de sabores antioqueños. Frijoles cocinados a fuego lento, arroz blanco esponjoso, carne molida sazonada, chicharrón crujiente, huevo frito, plátano maduro dulce, aguacate fresco y arepa recién hecha. Una experiencia culinaria inolvidable que te hará sentir como en casa.</string>
+    <string name="descripcionFuerte2">Un caldo reconfortante y lleno de tradición. Callos tiernos, cerdo jugoso, verduras frescas y especias aromáticas se combinan en una sopa espesa y deliciosa. Perfecto para un día frío o para revitalizar el cuerpo y el alma.</string>
+    <string name="descripcionFuerte3">Una obra maestra de la cocina mexicana. Una salsa compleja y deliciosa elaborada con chiles, chocolate, especias, frutos secos y semillas. Servido sobre pavo o pollo, acompañado de arroz y tortillas. Un plato festivo que te transportará a las tradiciones de Puebla.</string>
+
+
 </resources>
