@@ -10,12 +10,6 @@
     <string name="menu">REVISE NUESTRO MENU</string>
     <string name="reserva">REALICE SU RESERVA</string>
 
-    <!-- Informacion productos -->
-    <string-array name="Entradas">
-        <item>Empanadas</item>
-        <item>Patacones</item>
-        <item>Deditos de queso</item>
-    </string-array>
 
     <string name="title_activity_sede">SedeActivity</string>
     <string name="title_activity_menu">MenuActivity</string>
@@ -32,5 +26,33 @@
     <string name="descripcionFuerte2">Un caldo reconfortante y lleno de tradición. Callos tiernos, cerdo jugoso, verduras frescas y especias aromáticas se combinan en una sopa espesa y deliciosa. Perfecto para un día frío o para revitalizar el cuerpo y el alma.</string>
     <string name="descripcionFuerte3">Una obra maestra de la cocina mexicana. Una salsa compleja y deliciosa elaborada con chiles, chocolate, especias, frutos secos y semillas. Servido sobre pavo o pollo, acompañado de arroz y tortillas. Un plato festivo que te transportará a las tradiciones de Puebla.</string>
 
+    <!-- Informacion Bebidas -->
+
+    <string name="bebida1">Limonada de Coco</string>
+    <string name="bebida2">Tinto verano</string>
+    <string name="bebida3">Margarita clásica</string>
+
+    <string name="descripcionBebida1">Una explosión tropical en cada sorbo. Nuestra limonada de coco combina la acidez del limón fresco con la cremosidad del coco, creando una bebida refrescante y exótica. Perfecta para acompañar cualquier plato o para disfrutarla sola en un día soleado.</string>
+    <string name="descripcionBebida2">La bebida española por excelencia para los días calurosos. Vino tinto joven mezclado con gaseosa de limón, servido con hielo y una rodaja de naranja. Ligero, refrescante y con un toque de dulzura. ¡Ideal para disfrutar en una tarde de verano!</string>
+    <string name="descripcionBebida3">Un clásico mexicano que nunca falla. Tequila blanco, zumo de lima recién exprimido y licor de naranja, servido con sal en el borde de la copa. Un equilibrio perfecto entre dulce, ácido y salado. ¡La compañía ideal para una noche de fiesta o una cena especial!</string>
+
+    <!-- Informacion Postres -->
+
+    <string name="postres1">Tiramisú</string>
+    <string name="postres2">Coulant de Chocolate</string>
+    <string name="postres3">Cheesecake de Frutos Rojos</string>
+
+    <string name="descripcionPostres1">Un clásico italiano que te hará suspirar. Capas de bizcocho de soletilla empapado en café, crema de mascarpone suave y cacao en polvo. Una combinación irresistible de sabores y texturas que te transportará a la dolce vita.</string>
+    <string name="descripcionPostres2">Un volcán de placer para los amantes del chocolate. Un bizcocho de chocolate con un corazón líquido y caliente que se desborda al partirlo. Servido con helado de vainilla, crea un contraste perfecto entre el calor y el frío.</string>
+    <string name="descripcionPostres3">Un postre tradicional con un toque de dulzura. Suave y cremoso flan de huevo, bañado en caramelo líquido dorado. Un clásico que nunca pasa de moda, perfecto para endulzar cualquier ocasión.</string>
+
+    <!-- Entradas -->
+    <string name="entrada1">Croquetas de Jamón Ibérico</string>
+    <string name="entrada2">Ceviche de Camarones</string>
+    <string name="entrada3">Bruschetta de Tomate y Albahaca</string>
+
+    <string name="descripcionEntrada1">Crujientes por fuera y cremosas por dentro. Delicadas croquetas rellenas de jamón ibérico de bellota, elaboradas con bechamel casera y fritas hasta alcanzar un dorado perfecto. Un bocado exquisito que abre el apetito.</string>
+    <string name="descripcionEntrada2">Frescura marina en cada cucharada. Camarones frescos marinados en zumo de lima, cilantro, cebolla morada y ají. Un plato ligero y vibrante, perfecto para comenzar una comida con un toque cítrico y picante.</string>
+    <string name="descripcionEntrada3">La sencillez de los sabores mediterráneos. Rebanadas de pan tostado crujiente, cubiertas con tomate fresco, albahaca, ajo y aceite de oliva virgen extra. Un aperitivo clásico y delicioso, ideal para compartir.</string>
 
 </resources>

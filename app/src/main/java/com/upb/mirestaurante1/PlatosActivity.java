@@ -33,8 +33,6 @@ public class PlatosActivity extends BaseAdvanceListActivity  {
         mArray.add(new Node(getString(R.string.platoFuerte1), getString(R.string.descripcionFuerte1), R.drawable.bandejapaisa));
         mArray.add(new Node(getString(R.string.platoFuerte2), getString(R.string.descripcionFuerte2), R.drawable.mondongo));
         mArray.add(new Node(getString(R.string.platoFuerte3), getString(R.string.descripcionFuerte3), R.drawable.molepoblano));
-
-        Log.d("PlatosActivity", "Elementos agregados a mArray: " + mArray.size());
     }
 
 }

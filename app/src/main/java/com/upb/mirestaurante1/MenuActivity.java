@@ -46,6 +46,14 @@ public class MenuActivity extends AppCompatActivity implements AdapterView.OnIte
                     startActivity(intencion);
                     break;
 
+            case 2:  intencion = new Intent(this, BebidasActivity.class);
+                    startActivity(intencion);
+                    break;
+
+            case 3:  intencion = new Intent(this, PostresActivity.class);
+                    startActivity(intencion);
+                    break;
+
             // Insertar otros productos
         }
     }
